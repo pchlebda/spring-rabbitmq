@@ -2,7 +2,7 @@
 
 ## This application show how to integrate rabbitmq with spring-boot.
 
-#Requirements
+## Requirements
 
 * JDK 8
 * maven 3.2
